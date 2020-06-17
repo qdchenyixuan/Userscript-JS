@@ -15,3 +15,6 @@ CSS文件使用[Stylish](https://userstyles.org/)
 - [x] 下载
 - [ ] 自动登录
 - [ ] 样式美化
+
+## 某知名Galgame网站
+- [x] 替换站内OneDrive不稳定的CDN
