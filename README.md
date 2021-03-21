@@ -1,14 +1,10 @@
-# 常用网站的JS和CSS脚本(自用)
+# 自用JS脚本
 
 ## 📦使用
 
 如无特殊说明:
 
-JS文件使用 [Tampermonkey](https://github.com/Tampermonkey/tampermonkey) 
-
-CSS文件使用[Stylish](https://userstyles.org/)
-
-因为通常涉及到版权，所以并不会在社区发布
+请配合使用 [Tampermonkey](https://github.com/Tampermonkey/tampermonkey) 
 
 ## [咪咕音乐](./migu.js)
 - [x] 自动切换最高清晰度
@@ -19,6 +15,9 @@ CSS文件使用[Stylish](https://userstyles.org/)
 ## 某知名Galgame网站(经常换域名)
 - [x] 替换站内OneDrive不稳定的CDN
 
-## yande.re
+## [yande](yande.re) 
 - [x] 键盘翻页
 - [ ] ↓键下载原图
+
+## [阮一峰](http://www.ruanyifeng.com)
+- [x] 字体更改

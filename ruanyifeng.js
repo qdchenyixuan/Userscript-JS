@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         Yande.re Keyboard
+// @name         ruanyifeng font
 // @namespace    https://github.com/qdchenyixuan/Userscript-JS
 // @version      0.1
 // @description
 // @author       clear
-// @match        https://ruanyifeng.com/*
+// @match        http://www.ruanyifeng.com/*
 // @grant        none
 // ==/UserScript==
 
