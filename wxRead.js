@@ -2,11 +2,13 @@
 // @name         微信增减宽度（带记忆功能）
 // @namespace    https://github.com/qdchenyixuan/Userscript-JS
 // @version      0.1
-// @description
+// @description  微信增减宽度改编版（带记忆功能）
 // @author       clear
 // @match        https://weread.qq.com/web/reader/*
 // @grant        GM_log
 // @grant        GM_addStyle
+// @license MIT
+
 // ==/UserScript==
 
 // 改编原作者 https://greasyfork.org/zh-CN/scripts/418878-%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E5%8A%A0%E5%AE%BD%E5%BA%A6
