@@ -4,12 +4,12 @@
 // @version      0.1
 // @description
 // @author       clear
-// @match        http://www.ruanyifeng.com/*
+// @match        www.ruanyifeng.com/*
 // @grant        none
 // ==/UserScript==
 
 (function () {
-    'use strict';
-    const obj = document.querySelector("#container");
-    obj.style.cssText = "font-family: 'PingFang SC','Helvetica Neue','Microsoft YaHei New','STHeiti Light',sans-serif;"
+  'use strict';
+  const obj = document.querySelector('#container');
+  obj.style.cssText = "font-family: 'PingFang SC','Helvetica Neue','Microsoft YaHei New','STHeiti Light',sans-serif;";
 })();

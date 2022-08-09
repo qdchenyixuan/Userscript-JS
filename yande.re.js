@@ -8,17 +8,17 @@
 // @grant        none
 // ==/UserScript==
 
-(function() {
-    'use strict';
-        let href = window.location.href;
-        let uArray = href.split("/");
-        let pageId = parseInt(uArray[uArray.length-1]);
+(function () {
+  'use strict';
+  let href = window.location.href;
+  let uArray = href.split('/');
+  let pageId = parseInt(uArray[uArray.length - 1]);
 
-        window.addEventListener('keyup', function(e){
-          if(e.keyCode == 37){
-          window.location.href= pageId - 1;
-        } else if(e.keyCode == 39){
-          window.location.href= pageId + 1;
-        }
-    });
+  window.addEventListener('keyup', function (e) {
+    if (e.keyCode == 37) {
+      window.location.href = pageId - 1;
+    } else if (e.keyCode == 39) {
+      window.location.href = pageId + 1;
+    }
+  });
 })();
