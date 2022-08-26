@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         微信增减宽度（带记忆功能）
+// @name         微信读书增减宽度（带记忆功能）
 // @namespace    https://github.com/qdchenyixuan/Userscript-JS
-// @version      0.1
-// @description  微信增减宽度改编版（带记忆功能）
+// @version      0.11
+// @description  微信读书增减宽度改编版（带记忆功能）
 // @author       clear
 // @match        https://weread.qq.com/web/reader/*
 // @grant        GM_log

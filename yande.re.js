@@ -1,11 +1,14 @@
 // ==UserScript==
-// @name         Yande.re Keyboard
-// @namespace    https://github.com/qdchenyixuan/Userscript-JS
+// @name         yande keybord turn pages  键盘翻页  ページをめくる
+// @namespace    https://yande.re/*
 // @version      0.1
-// @description
+// @description  yande keybord turn pages  键盘翻页  ページをめくる
 // @author       clear
-// @match        https://yande.re/post*
-// @grant        none
+// @match        https://yande.re/*
+// @grant        GM_log
+// @grant        GM_addStyle
+// @license      MIT
+
 // ==/UserScript==
 
 (function () {
